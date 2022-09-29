@@ -107,3 +107,14 @@ function t() {
     clearInterval(timer);
   }
 }
+
+// git browser : origin repo
+// git local : local repo
+// .git: track and compare local vs origin
+// changes push
+// git status - not mandatory
+// git add .
+// git add Vishal.txt
+// git status
+// git commit -m "Fix resume link"
+// git push origin main
